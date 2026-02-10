@@ -1,8 +1,23 @@
 import { NextResponse } from "next/server";
 import { readFileSync, existsSync } from "fs";
-import { join } from "path";
+import { join, dirname } from "path";
+import { fileURLToPath } from "url";
 
-const DB_DIR = join(process.cwd(), "database");
+const __dirname = dirname(fileURLToPath(import.meta.url));
+
+function getDbDir(): string {
+  const candidates = [
+    join(process.cwd(), "database"),
+    join(__dirname, "..", "..", "..", "database"),
+    join(__dirname, "..", "..", "..", "..", "..", "database"),
+  ];
+  for (const dir of candidates) {
+    if (existsSync(join(dir, "input.txt"))) return dir;
+  }
+  return candidates[0];
+}
+
+const DB_DIR = getDbDir();
 const INPUT_PATH = join(DB_DIR, "input.txt");
 const CSV_PATH = join(DB_DIR, "output.csv");
 
