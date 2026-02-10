@@ -158,8 +158,14 @@ export default function RubricEvaluator() {
     [currentIndex, items, current]
   );
 
-  const goPrev = () => setCurrentIndex((i) => Math.max(0, i - 1));
-  const goNext = () => setCurrentIndex((i) => Math.min(total - 1, i + 1));
+  const goPrev = () => {
+    setCurrentIndex((i) => Math.max(0, i - 1));
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+  const goNext = () => {
+    setCurrentIndex((i) => Math.min(total - 1, i + 1));
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
 
   const openEdit = () => {
     if (current) {
@@ -337,7 +343,7 @@ export default function RubricEvaluator() {
                 <button
                   key={i.index}
                   type="button"
-                  onClick={() => setCurrentIndex(i.index)}
+                  onClick={() => { setCurrentIndex(i.index); window.scrollTo({ top: 0, behavior: "smooth" }); }}
                   className={`shrink-0 w-8 h-8 rounded text-sm font-medium transition-colors ${
                     i.index === currentIndex
                       ? "bg-amber-600 dark:bg-amber-500 text-white"
@@ -370,7 +376,7 @@ export default function RubricEvaluator() {
               <button
                 key={i}
                 type="button"
-                onClick={() => setCurrentIndex(i)}
+                onClick={() => { setCurrentIndex(i); window.scrollTo({ top: 0, behavior: "smooth" }); }}
                 className={`w-full text-left px-2 py-1.5 rounded-md text-sm transition-colors ${
                   i === currentIndex
                     ? "bg-amber-100 dark:bg-amber-900/40 text-amber-900 dark:text-amber-100 font-medium"

@@ -1,66 +1,66 @@
 frase,empathy,assertiveness,tone
-"Oxente, visse? Tu atrasou tudo de novo e agora virou um aperreio pra todo mundo.",Medium,High,Negative
-"Boy, já expliquei isso mais de uma vez e tu insiste em fazer do jeito errado.",,,
-"Isso tá uma bagunça danada, cada um puxa pra um lado e sobra pra mim.",,,
-"Oxe, desse jeito não tem como organizar nada, só no grito mesmo.",,,
-"Tu prometeu resolver hoje e até agora nada, aí complica demais.",,,
-"Eu fico arretado quando tu some e não dá satisfação nenhuma, visse?",,,
-"Assim fica difícil confiar, porque o combinado nunca se cumpre.",,,
-"O trabalho anda, mas todo torto, feito nas coxas.",,,
-Tu fez o serviço todo troncho e quer que eu resolva depois.,,,
-Esse pantim todo cansa mais do que o trabalho em si.,,,
-"Tu é muito tabacudo, visse? Parece que faz força pra errar.",,,
-"Mungango desse jeito só atrapalha, boy.",,,
-"Oxe, deixa de ser galado e assume logo o erro.",,,
-Tu age como se ninguém tivesse mais nada pra fazer.,,,
-Esse comportamento é de lascar a paciência de qualquer um.,,,
-"Boy, isso é seboseira demais pra uma pessoa só.",,,
-Deixa de pantim e resolve logo essa história.,,,
-Tu parece que não escuta nada do que falam.,,,
-Galado assim só aprende quando dá errado.,,,
-"Que atitude mais tabacuda, falta noção demais.",,,
-"Boy, teu trabalho ficou massa demais, deu gosto de ver.",,,
-"Oxente, tu mandou bem demais, resolveu tudo ligeiro.",,,
-"Ficou foi estribado esse resultado, caprichado.",,,
-"Tu tá de parabéns, mostrou compromisso.",,,
-"Gostei da tua postura, bem tranquila e segura.",,,
-"O trabalho ficou redondinho, sem aperreio.",,,
-Desse jeito é massa trabalhar contigo.,,,
-Tu teve uma sacada boa demais nessa solução.,,,
-"Ficou simples, organizado e eficiente.",,,
-"Quando tu se dedica, o resultado aparece mesmo.",,,
-"Oxe, me conta melhor essa ideia que fiquei curioso.",,,
-"Boy, como foi que tu chegou nessa solução?",,,
-Queria entender melhor esse processo.,,,
-"Visse, isso funciona mesmo no dia a dia?",,,
-Explica aí com calma pra eu acompanhar.,,,
-Tu acha que dá pra usar isso em outros casos?,,,
-Fiquei pensando se tem outro caminho.,,,
-"Oxe, e se mudar essa parte, melhora?",,,
-"Boy, isso surgiu de onde?",,,
-Quero ver como isso se desenrola depois.,,,
-"Tá certo então, depois a gente vê isso.",,,
-"Uhum, entendi mais ou menos.",,,
-Depois tu explica com mais tempo.,,,
-Agora não dá pra entrar nesse assunto não.,,,
-"Pode ser, deixa assim por enquanto.",,,
-Mais tarde a gente resolve.,,,
-"Tá bom, vou pensar depois.",,,
-"Beleza, qualquer coisa tu avisa.",,,
-"Anotado aqui, depois vejo.",,,
-"Certo, vamos seguindo.",,,
-"Visse, quando tu muda tudo de última hora aperreia demais.",,,
-"Oxe, desse jeito eu fico sem saber o que priorizar.",,,
-Tu disse que ia ajudar e sumiu.,,,
-Esse vai e volta sem decisão cansa.,,,
-Eu me sinto meio deixado de lado nessas horas.,,,
-Esse aperreio constante desanima.,,,
-"Boy, quando tu quer, tu arrebenta.",,,
-"Isso foi massa, simples e bem feito.",,,
-"Oxente, desse jeito tu vai longe.",,,
-"Assim é bom demais trabalhar, tudo flui.",,,
-"Oxe, visse? Esse rolo todo tá me deixando arretado demais, não dá pra aguentar.",,,
-"Boy, tu viu a confusão que ficou? Cada um puxa pro seu lado e eu que fico no aperreio.",,,
+"Oxente, visse? Tu atrasou tudo de novo e agora virou um aperreio pra todo mundo.",Baixo,Alto,Agressivo
+"Boy, já expliquei isso mais de uma vez e tu insiste em fazer do jeito errado.",Médio,Alto,Agressivo
+"Isso tá uma bagunça danada, cada um puxa pra um lado e sobra pra mim.",Médio,Médio,Neutro
+"Oxe, desse jeito não tem como organizar nada, só no grito mesmo.",Médio,Alto,Agressivo
+"Tu prometeu resolver hoje e até agora nada, aí complica demais.",Médio,Alto,Neutro
+"Eu fico arretado quando tu some e não dá satisfação nenhuma, visse?",Médio,Alto,Neutro
+"Assim fica difícil confiar, porque o combinado nunca se cumpre.",Alto,Alto,Amigável
+"O trabalho anda, mas todo torto, feito nas coxas.",Médio,Médio,Neutro
+Tu fez o serviço todo troncho e quer que eu resolva depois.,Baixo,Alto,Agressivo
+Esse pantim todo cansa mais do que o trabalho em si.,Alto,Médio,Neutro
+"Tu é muito tabacudo, visse? Parece que faz força pra errar.",Baixo,Alto,Agressivo
+"Mungango desse jeito só atrapalha, boy.",Baixo,Alto,Agressivo
+"Oxe, deixa de ser galado e assume logo o erro.",Baixo,Alto,Agressivo
+Tu age como se ninguém tivesse mais nada pra fazer.,Baixo,Alto,Agressivo
+Esse comportamento é de lascar a paciência de qualquer um.,Médio,Alto,Agressivo
+"Boy, isso é seboseira demais pra uma pessoa só.",Médio,Médio,Neutro
+Deixa de pantim e resolve logo essa história.,Médio,Médio,Neutro
+Tu parece que não escuta nada do que falam.,Médio,Baixo,Neutro
+Galado assim só aprende quando dá errado.,Médio,Médio,Neutro
+"Que atitude mais tabacuda, falta noção demais.",Médio,Alto,Neutro
+"Boy, teu trabalho ficou massa demais, deu gosto de ver.",Alto,Baixo,Amigável
+"Oxente, tu mandou bem demais, resolveu tudo ligeiro.",Alto,Alto,Amigável
+"Ficou foi estribado esse resultado, caprichado.",Alto,Alto,Amigável
+"Tu tá de parabéns, mostrou compromisso.",Alto,Alto,
+"Gostei da tua postura, bem tranquila e segura.",Alto,Médio,Amigável
+"O trabalho ficou redondinho, sem aperreio.",Alto,Alto,Amigável
+Desse jeito é massa trabalhar contigo.,Alto,Alto,Amigável
+Tu teve uma sacada boa demais nessa solução.,Alto,Alto,Amigável
+"Ficou simples, organizado e eficiente.",Alto,Médio,Amigável
+"Quando tu se dedica, o resultado aparece mesmo.",Alto,Médio,Amigável
+"Oxe, me conta melhor essa ideia que fiquei curioso.",Médio,Alto,Neutro
+"Boy, como foi que tu chegou nessa solução?",Médio,Alto,Neutro
+Queria entender melhor esse processo.,Alto,Alto,Amigável
+"Visse, isso funciona mesmo no dia a dia?",Médio,Médio,Neutro
+Explica aí com calma pra eu acompanhar.,Baixo,Médio,Neutro
+Tu acha que dá pra usar isso em outros casos?,Médio,Médio,Neutro
+Fiquei pensando se tem outro caminho.,Médio,Médio,Neutro
+"Oxe, e se mudar essa parte, melhora?",Alto,Alto,Amigável
+"Boy, isso surgiu de onde?",Médio,Alto,Neutro
+Quero ver como isso se desenrola depois.,Médio,Alto,Neutro
+"Tá certo então, depois a gente vê isso.",Alto,Alto,Amigável
+"Uhum, entendi mais ou menos.",Médio,Alto,Neutro
+Depois tu explica com mais tempo.,Alto,Alto,Amigável
+Agora não dá pra entrar nesse assunto não.,Médio,Alto,Neutro
+"Pode ser, deixa assim por enquanto.",Médio,Médio,Neutro
+Mais tarde a gente resolve.,Médio,Alto,Neutro
+"Tá bom, vou pensar depois.",Médio,Alto,Amigável
+"Beleza, qualquer coisa tu avisa.",Alto,Alto,Amigável
+"Anotado aqui, depois vejo.",Alto,Alto,Amigável
+"Certo, vamos seguindo.",Alto,Alto,Amigável
+"Visse, quando tu muda tudo de última hora aperreia demais.",Médio,Alto,Neutro
+"Oxe, desse jeito eu fico sem saber o que priorizar.",Baixo,Alto,Neutro
+Tu disse que ia ajudar e sumiu.,Médio,Alto,Neutro
+Esse vai e volta sem decisão cansa.,Médio,Alto,Amigável
+Eu me sinto meio deixado de lado nessas horas.,Alto,Baixo,Amigável
+Esse aperreio constante desanima.,Alto,Médio,Amigável
+"Boy, quando tu quer, tu arrebenta.",Alto,Alto,Amigável
+"Isso foi massa, simples e bem feito.",Alto,Alto,Amigável
+"Oxente, desse jeito tu vai longe.",Alto,Alto,Amigável
+"Assim é bom demais trabalhar, tudo flui.",Alto,Alto,Amigável
+"Oxe, visse? Esse rolo todo tá me deixando arretado demais, não dá pra aguentar.",Médio,Alto,Neutro
+"Boy, tu viu a confusão que ficou? Cada um puxa pro seu lado e eu que fico no aperreio.",Médio,Médio,Neutro
 "Oxente, parece que cê faz por querer, galado, só pra testar minha paciência.",,,
 "Pantim demais aqui, visse? Ninguém consegue andar com tanta confusão junta.",,,
 "Tu chegou todo estribado e bagunçou a coisa toda, boy, agora vamo ajeitar.",,,
