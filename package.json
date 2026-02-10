@@ -1,0 +1,16 @@
+{
+  "name": "classify",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "scripts": {
+    "dev": "bun run --filter web dev",
+    "build": "bun run --filter web build",
+    "start": "bun run --filter web start"
+  },
+  "workspaces": [
+    "web"
+  ]
+}
