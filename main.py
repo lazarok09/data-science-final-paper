@@ -7,8 +7,8 @@ This is a temporary script file.
 
 import csv
 
-arquivo_txt = "gpt.txt"
-arquivo_csv = "frases.csv"
+input_file_dir = "raw_dataset.txt"
+output_file_dir = "csv_dataset.csv"
 
 def corrigir_mojibake(texto):
     try:
@@ -17,8 +17,8 @@ def corrigir_mojibake(texto):
         return texto
 
 
-with open(arquivo_txt, "r", encoding="utf-8", errors="ignore") as txt_file, \
-     open(arquivo_csv, "w", newline="", encoding="utf-8-sig") as csv_file:
+with open(input_file_dir, "r", encoding="utf-8", errors="ignore") as txt_file, \
+     open(output_file_dir, "w", newline="", encoding="utf-8-sig") as csv_file:
 
     writer = csv.writer(csv_file)
     writer.writerow(["frase"])
