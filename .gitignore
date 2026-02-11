@@ -1,6 +1,12 @@
 # dependencies (bun install)
 node_modules
 
+# Python
+.venv
+__pycache__
+*.pyc
+classification_metrics.json
+
 # output
 out
 dist
